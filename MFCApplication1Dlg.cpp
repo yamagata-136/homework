@@ -157,7 +157,7 @@ HCURSOR CMFCApplication1Dlg::OnQueryDragIcon()
 }
 
 
-
+/*いじってみる*/
 void CMFCApplication1Dlg::OnBnClickedOk()
 {
 	// TODO: ここにコントロール通知ハンドラー コードを追加します。
